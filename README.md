@@ -112,7 +112,7 @@ Here you are going to find an useful links to start with flutter.
 
 # Contributions
 
-If you want to contribute to this starting pack guide, please open a PR with the new resoruces and a quick explanaition of why you want to add it.
+If you want to contribute to this starting pack guide, please open a PR with the new resources and a quick explanaition of why you want to add it.
 
 Thank you! 💙
 
