@@ -1,4 +1,4 @@
-# Polo's Flutter Starting pack
+# Polo's Flutter Starter pack
 
 Here you are going to find an useful links to start with flutter.
 
